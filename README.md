@@ -14,7 +14,7 @@ API de Clima: Integração com uma API para obter os dados meteorológicos.
 
 #### Como Executar o Projeto
 
-1 - Faça o download ou clone o repositório: git clone https://github.com/vitor-penha/clima_tempo.git
+1 - Faça o download ou clone o repositório: git clone https://github.com/Vitorpaulo-dapenha/clima_tempo.git
 
 2 - Navegue até o diretório do projeto: cd clima-tempo
 
